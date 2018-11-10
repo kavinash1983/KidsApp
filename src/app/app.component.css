@@ -1,0 +1,13 @@
+.bgcolour {
+background-color: blue ;
+font-size: 1em ;
+font-style: normal;
+ width: 40% ;
+ 
+}
+
+.textcolor {
+ font-size: 2em ;
+ font-style: italic;
+ color:brown;
+}
